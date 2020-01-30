@@ -1,0 +1,6 @@
+E:\My Application\CsharpApplication\ApplicationServer\AppUilities\obj\Debug\AppUilities.csprojAssemblyReference.cache
+E:\My Application\CsharpApplication\ApplicationServer\AppUilities\obj\Debug\AppUilities.csproj.CoreCompileInputs.cache
+E:\My Application\CsharpApplication\ApplicationServer\AppUilities\bin\Debug\AppUilities.dll
+E:\My Application\CsharpApplication\ApplicationServer\AppUilities\bin\Debug\AppUilities.pdb
+E:\My Application\CsharpApplication\ApplicationServer\AppUilities\obj\Debug\AppUilities.dll
+E:\My Application\CsharpApplication\ApplicationServer\AppUilities\obj\Debug\AppUilities.pdb

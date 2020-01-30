@@ -1,0 +1,16 @@
+E:\My Application\CsharpApplication\ApplicationServer\ApplicationServer\obj\Debug\ApplicationServer.csprojAssemblyReference.cache
+E:\My Application\CsharpApplication\ApplicationServer\ApplicationServer\obj\Debug\ApplicationServer.csproj.GenerateResource.cache
+E:\My Application\CsharpApplication\ApplicationServer\ApplicationServer\obj\Debug\ApplicationServer.csproj.CoreCompileInputs.cache
+E:\My Application\CsharpApplication\ApplicationServer\ApplicationServer\bin\Debug\MaterialSkin.dll
+E:\My Application\CsharpApplication\ApplicationServer\ApplicationServer\bin\Debug\Newtonsoft.Json.dll
+E:\My Application\CsharpApplication\ApplicationServer\ApplicationServer\bin\Debug\Newtonsoft.Json.xml
+E:\My Application\CsharpApplication\ApplicationServer\ApplicationServer\obj\Debug\ApplicationServer.csproj.CopyComplete
+E:\My Application\CsharpApplication\ApplicationServer\ApplicationServer\obj\Debug\OurGameSever.Properties.Resources.resources
+E:\My Application\CsharpApplication\ApplicationServer\ApplicationServer\bin\Debug\OurGameSever.exe.config
+E:\My Application\CsharpApplication\ApplicationServer\ApplicationServer\bin\Debug\OurGameSever.exe
+E:\My Application\CsharpApplication\ApplicationServer\ApplicationServer\bin\Debug\OurGameSever.pdb
+E:\My Application\CsharpApplication\ApplicationServer\ApplicationServer\obj\Debug\OurGameSever.FrmUsersPanel.resources
+E:\My Application\CsharpApplication\ApplicationServer\ApplicationServer\obj\Debug\OurGameSever.exe
+E:\My Application\CsharpApplication\ApplicationServer\ApplicationServer\obj\Debug\OurGameSever.pdb
+E:\My Application\CsharpApplication\ApplicationServer\ApplicationServer\bin\Debug\AppUilities.dll
+E:\My Application\CsharpApplication\ApplicationServer\ApplicationServer\bin\Debug\AppUilities.pdb
